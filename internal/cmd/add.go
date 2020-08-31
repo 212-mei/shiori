@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/go-shiori/shiori/internal/core"
+	"github.com/shiori/internal/core"
 	"github.com/go-shiori/shiori/internal/model"
 	"github.com/spf13/cobra"
 )
