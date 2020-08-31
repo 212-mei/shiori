@@ -349,7 +349,7 @@ export default {
 		showDialogAdd() {
 			this.showDialog({
 				title: "New Bookmark",
-				content: "Create a new bookmark",
+				content: "创建一个新的书签",
 				fields: [{
 					name: "url",
 					label: "Url, start with http://...",
